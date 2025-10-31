@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pathlock\\TaskManagerApi\\TaskManagerApi.csproj": {}
+    "D:\\pathlock\\assignment 1\\TaskManagerApi\\TaskManagerApi.csproj": {}
   },
   "projects": {
-    "D:\\pathlock\\TaskManagerApi\\TaskManagerApi.csproj": {
+    "D:\\pathlock\\assignment 1\\TaskManagerApi\\TaskManagerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pathlock\\TaskManagerApi\\TaskManagerApi.csproj",
+        "projectUniqueName": "D:\\pathlock\\assignment 1\\TaskManagerApi\\TaskManagerApi.csproj",
         "projectName": "TaskManagerApi",
-        "projectPath": "D:\\pathlock\\TaskManagerApi\\TaskManagerApi.csproj",
+        "projectPath": "D:\\pathlock\\assignment 1\\TaskManagerApi\\TaskManagerApi.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\pathlock\\TaskManagerApi\\obj\\",
+        "outputPath": "D:\\pathlock\\assignment 1\\TaskManagerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

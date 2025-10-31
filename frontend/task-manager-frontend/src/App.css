@@ -122,15 +122,19 @@ h1 {
   transform: scale(1.15);
 }
 
-/* Optional — pretty scrollbar */
-.task-list::-webkit-scrollbar {
+.task-list-container::-webkit-scrollbar {
   width: 6px;
 }
 
-.task-list::-webkit-scrollbar-thumb {
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 3px;
+.task-list-container::-webkit-scrollbar-thumb {
+  background-color: #cccccc;
+  border-radius: 10px;
 }
+
+.task-list-container::-webkit-scrollbar-thumb:hover {
+  background-color: #999999;
+}
+
 
 .task-list {
   list-style: none;

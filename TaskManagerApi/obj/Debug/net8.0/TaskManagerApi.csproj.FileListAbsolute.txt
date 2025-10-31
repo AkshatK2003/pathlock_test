@@ -31,3 +31,4 @@ D:\pathlock\TaskManagerApi\obj\Debug\net8.0\refint\TaskManagerApi.dll
 D:\pathlock\TaskManagerApi\obj\Debug\net8.0\TaskManagerApi.pdb
 D:\pathlock\TaskManagerApi\obj\Debug\net8.0\TaskManagerApi.genruntimeconfig.cache
 D:\pathlock\TaskManagerApi\obj\Debug\net8.0\ref\TaskManagerApi.dll
+D:\pathlock\TaskManagerApi\obj\Debug\net8.0\TaskManagerApi.sourcelink.json
